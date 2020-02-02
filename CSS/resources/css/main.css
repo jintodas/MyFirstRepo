@@ -1,0 +1,42 @@
+body{
+	background-image: url('../img/background.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+
+ul{
+	list-style-type: none;
+	margin:0;
+	padding:0;
+}
+
+li {
+	display:inline;
+}
+
+img{
+	width: 80px;
+	height: 80px:
+	
+}
+
+
+#header{
+	display: flex;
+	height: 100px;
+	align-items: center;
+}
+
+#logodiv{
+	width: 25%;
+}
+
+#spacing_div{
+	width:50%;
+}
+
+#menu_div{
+	width: 25%;
+
+}
