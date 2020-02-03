@@ -1,0 +1,55 @@
+body{
+	background-color: #ff00ff;
+	background-image: url("../img/img2.jpg");
+}
+
+.navbar{
+	height: 10px;
+	display: inline;
+}
+
+
+li{
+	display: inline;
+}
+
+.maindesc{
+	margin: 30px;
+}
+
+.maindesc.imagespace{
+	
+	}
+
+img.imagespace{
+	width: 100px;
+	height: 50px;
+}
+
+.maindesc.textspace{
+	font-size: 15pt; 
+	font-family: sans-serif;
+	text-align: justify;
+}
+
+.footer{
+	display:inline;
+	height: 120px;
+	background-color: blue;
+}
+
+ul.social_media{
+	display: block;
+}
+
+ul.footer.contact{
+	display: block;
+}
+
+img{
+	width: 50px;
+	height:50px;
+	margin:5px;
+	align-content: space-around;
+	display: inline-grid;
+}
